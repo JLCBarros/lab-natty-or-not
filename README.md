@@ -1,13 +1,10 @@
 # Título do Projeto Extremamente Aesthetic ;)
 REFORMA TRIBUTÁRIA E O MERCADO DE TECNOLOGIA
 ## 📒 Descrição
-Breve descrição do seu projeto
 e-book para despertar a conscientização em relação ao impacto da reforma tributária brasileira aos profissionais que prestam e fornecem serviços em tecnologia.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 ChatGPT
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 Criado a partir do seguinte pronpt:
 Você aturá como uma agente especialista em tributação de acordo com a legislação e norma contábil brasileira e especialista na nova reforma tributária brasileira.
 Atue como um contador, especialista em legislação brasileira, profissional tributarista, contador tributário, advogado tributário, profissional especializado na área tributária; facilitador, mestre, educador, treinador, instrutor, professor e o que mais for necessário para ensinar-me detalhadamente questões contábeis e tributárias, sobre as sobre as forma de tributação atual e seu impacto e mudanças em relação a nova reforma tributária direcionada exclusivamente aos prestadores, fornecedores de serviços na área de tecnologia, e quaisquer que outro seja importante e necessário em sua análise, utilizadas para o exercício da função do profissional que atua na área contábil atendendo exclusivamente profissionais que prestam e fornecem serviços em tecnologia.
@@ -42,8 +39,6 @@ Segue algumas referências que acredito que possam contribuir para sua pesquisa,
 - ministério da fazenda – passos da reforma em novembro de 2026
 - APIs – recolhimento CBS e RAD 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 PDF do e-book em anexo
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 Interessante com a IA criou um produto que faz sentido, com linguagem estruturada e utilizável. 
